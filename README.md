@@ -1,4 +1,4 @@
-# Firts setup Mongo
+# First setup Mongo
 - npm install
 - npm start
 
